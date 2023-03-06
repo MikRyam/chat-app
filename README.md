@@ -28,11 +28,11 @@ npm ci
 ## Getting Started
 
 ```bash
+# terminal 1
 cd server
 npm run dev
 
-cd ..
-
+# terminal 2
 cd client
 npm run start
 ```
